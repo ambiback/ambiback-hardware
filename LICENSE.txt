@@ -1,0 +1,12 @@
+AmbiBack LED Control PCB v0r1 for M5Stack Atom Lite
+Design: Andreas Hofmann, 2021
+Copyright (C) 2021 Andreas Hofmann
+Published by the AmbiBack project, https://www.ambiback.de/
+
+Licensed under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0).
+https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+Prototype revision, provided as is and without warranty. Check the design before ordering boards.
+Contents: KiCad 5 project in kicad/, manufacturing files in gerber/.
+Local file paths were removed from the netlist. The design itself is unchanged.
+Names of third-party products are used only to describe compatibility.
