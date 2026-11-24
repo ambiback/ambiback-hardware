@@ -1,0 +1,57 @@
+.gitattributes
+  s_396ec058602e6f::t_592f9e3f8c28a5 1
+LICENSE.txt
+  s_396ec058602e6f::t_9df9172d0b546a 1-12
+README.de.md
+  s_396ec058602e6f::t_50fe8b2f2916ac 1-46
+README.md
+  s_396ec058602e6f::t_45bed06ae75d22 1-46
+led-control-v0r1/gerber/AmbiBack-B_Cu.gbl
+  s_396ec058602e6f::t_73b708dd437837 1-2402
+led-control-v0r1/gerber/AmbiBack-B_Mask.gbs
+  s_396ec058602e6f::t_b5c0c4875bedb8 1-294
+led-control-v0r1/gerber/AmbiBack-B_Paste.gbp
+  s_396ec058602e6f::t_ad8092545d18b3 1-15
+led-control-v0r1/gerber/AmbiBack-B_SilkS.gbo
+  s_396ec058602e6f::t_093c59ad6736e4 1-769
+led-control-v0r1/gerber/AmbiBack-Edge_Cuts.gm1
+  s_396ec058602e6f::t_32850e708ad1eb 1-46
+led-control-v0r1/gerber/AmbiBack-F_Cu.gtl
+  s_396ec058602e6f::t_7e64bb59b5399a 1-2596
+led-control-v0r1/gerber/AmbiBack-F_Mask.gts
+  s_396ec058602e6f::t_ede2be53c5474c 1-411
+led-control-v0r1/gerber/AmbiBack-F_Paste.gtp
+  s_396ec058602e6f::t_4e2ec23b1c3524 1-127
+led-control-v0r1/gerber/AmbiBack-F_SilkS.gto
+  s_396ec058602e6f::t_3540f168fc4b57 1-1049
+led-control-v0r1/gerber/AmbiBack-NPTH.drl
+  s_396ec058602e6f::t_87e5305067a693 1-7
+led-control-v0r1/gerber/AmbiBack-PTH.drl
+  s_396ec058602e6f::t_6a47e32678ec60 1-94
+led-control-v0r1/kicad/AmbiBack-cache.lib
+  s_396ec058602e6f::t_bc2e22c2f0e8b0 1-207
+led-control-v0r1/kicad/AmbiBack.kicad_pcb
+  s_396ec058602e6f::t_694df2ce48946d 1-1309
+led-control-v0r1/kicad/AmbiBack.net
+  s_396ec058602e6f::t_a47c3a2d67bb0c 1-138
+led-control-v0r1/kicad/AmbiBack.pro
+  s_396ec058602e6f::t_d71742f191b1f7 1-249
+led-control-v0r1/kicad/AmbiBack.sch
+  s_396ec058602e6f::t_583d5c7c62eb15 1-214
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "15090c487a31c32d13d9bc34d3dba4e3b8e68962",
+  "prompts": {},
+  "sessions": {
+    "s_396ec058602e6f": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "4a258a7f-f865-4e85-8da1-7bf02247dffb",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Andre Lorbach <1675286+alorbach@users.noreply.github.com>"
+    }
+  }
+}
